@@ -53,7 +53,7 @@ But I have none rn
 
 ## **私に連絡して (Contact Me)📱** 
  
-```discord.js
+```js
 from disord.js import discord;
 const { Client, Intents } = require('discord.js');
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
